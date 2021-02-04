@@ -1,0 +1,39 @@
+/* I tried guessing what you did to make it look like it did in the exampler, so I had to do some research.*/
+
+/* https://www.w3schools.com/css/css_selectors.asp
+   https://www.w3schools.com/howto/howto_js_sticky_header.asp*/
+ 
+.fixedNavigationBar{
+  background-color: orange;
+  font-size: 20px;
+  text-align: center;
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.section1{
+  background-color: blue;
+  font-size: 20px;
+  text-align: center;
+  height: 200px;
+}
+.section2{
+  background-color: purple;
+  font-size: 20px;
+  text-align: center;
+  height: 200px;
+}
+.section3{
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+  height: 200px;
+}
+.section4{
+  background-color: green;
+  font-size: 20px;
+  text-align: center;
+  height: 200px;
+}
